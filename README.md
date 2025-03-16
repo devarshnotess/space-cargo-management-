@@ -19,8 +19,14 @@ An advanced cargo management system for space stations, built with FastAPI (back
 📂 Project Structure
 
 space-cargo-management/
-├── backend/                    # FastAPI Backend
-│   ├── main.py                 # FastAPI entry point
+
+├── backend/ 
+
+# FastAPI Backend
+
+│   ├── main.py 
+
+# FastAPI entry point
 │   ├── database.py              # PostgreSQL setup
 │   ├── models.py                # Database models
 │   ├── schemas.py               # API schemas
@@ -61,7 +67,7 @@ PostgreSQL installed & running
 
 1. Clone the repository:
 
-git clone https://github.com/devarshnotess/space-cargo-management.git
+git clone https://github.com/devarshnotess/space-cargo-management
 cd space-cargo-management/backend
 
 
