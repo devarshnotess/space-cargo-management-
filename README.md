@@ -17,5 +17,5 @@ An advanced cargo management system for space stations, built with FastAPI (back
 
 ✅ Dockerized Deployment
 
-git clone https://github.com/devarshnotess/space-cargo-management.git
+git clone https://github.com/devarshnotess/space-cargo-management-.git
 cd space-cargo-management/backend
