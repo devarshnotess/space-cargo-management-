@@ -8,8 +8,12 @@ An advanced cargo management system for space stations, built with FastAPI (back
 📌 Features
 
 ✅ FastAPI Backend with PostgreSQL integration
+
 ✅ Advanced Space Optimization (bin-packing logic for item placement)
+
 ✅ Time Simulation (simulate cargo expiration over time)
+
 ✅ React.js Frontend (Material UI for a modern UI/UX)
+
 ✅ Dockerized Deployment
 
